@@ -5,7 +5,7 @@ Este repositório contém a documentação técnica e o gerenciamento de tarefas
 ## 📊 Gerenciamento do Projeto
 Para acompanhar o progresso das entregas (Preliminar e Final), acesse o nosso quadro Kanban:
 
-👉 **[CLIQUE AQUI PARA VER O QUADRO DO PROJETO](COLE_AQUI_O_LINK_DO_SEU_PROJETO)**
+👉 **[CLIQUE AQUI PARA VER O QUADRO DO PROJETO]((https://github.com/users/fernando4156/projects/1/views/1))**
 
 ---
 
